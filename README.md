@@ -25,13 +25,14 @@
 1. Context API
 2. Local Storage
 3. Responsive Design
+4. Vite
 
-## Images related to the project
+## How to use the project
 
-<img src="public/images/front-page.png" alt="Front Page Image" />
-<img src="public/images/all-task.png" alt="All Task Image" />
-<img src="public/images/all-task-2.png" alt="All Task 2 Image" />
-<img src="public/images/active-task.png" alt="Active Task Image" />
-<img src="public/images/complete-task.png" alt="Completed Task Image" />
+1. Firstly, you must have nodejs install in your computer
+2. Second, Download the project either zip file or using `git clone repository-url`
+3. Third, Move to the project folder and, run `npm install` command
+4. Fourth, In order to run the project execute `npm run dev` command
+5. Then, enjoy😊 - project run's successfully
 
 ##### LIVE LINK OF THE PROJECT: [LIVE PROJECT LINK](https://task-manager-application-rosy.vercel.app/)
