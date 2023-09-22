@@ -109,7 +109,7 @@ function App() {
 		>
 			<section className="app-container">
 				<div className="inner-app-container">
-					<h1 className="todo-heading">Manage Your Todos</h1>
+					<h1 className="todo-heading">Manage Your Tasks</h1>
 					<div className="form-container">
 						<TodoForm />
 					</div>

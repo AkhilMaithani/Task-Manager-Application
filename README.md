@@ -1,4 +1,4 @@
-# Todo Application
+# Task Manager Application
 
 1. It is a todo application where an individual can track his/her daily tasks.
 2. Features Availables are:
