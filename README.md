@@ -28,10 +28,10 @@
 
 ## Images related to the project
 
-<img src="./src/images/front-page.png" alt="Front Page Image" />
-<img src="./src/images/all-task.png" alt="All Task Image" />
-<img src="./src/images/all-task-2.png" alt="All Task 2 Image" />
-<img src="./src/images/active-task.png" alt="Active Task Image" />
-<img src="./src/images/complete-task.png" alt="Completed Task Image" />
+<img src="public/images/front-page.png" alt="Front Page Image" />
+<img src="public/images/all-task.png" alt="All Task Image" />
+<img src="public/images/all-task-2.png" alt="All Task 2 Image" />
+<img src="public/images/active-task.png" alt="Active Task Image" />
+<img src="public/images/complete-task.png" alt="Completed Task Image" />
 
 ##### LIVE LINK OF THE PROJECT: [LIVE PROJECT LINK](https://task-manager-application-rosy.vercel.app/)
