@@ -9,6 +9,8 @@
 
 .todo-item-container input[type="checkbox"] {
 	position: absolute;
+	accent-color: green;
+	width: 10px;
 	left: 2rem;
 }
 
